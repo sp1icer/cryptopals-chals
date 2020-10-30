@@ -7,6 +7,7 @@
 
 import math
 
+
 def hex_to_bin(hex_str):
     hex_int = int(hex_str, 16)
     bin_str = ''
